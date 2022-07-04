@@ -1,5 +1,5 @@
 body {
-    background-color:#9132a8;
+    background:-webkit-gradient(linear, 0% 0%, 100% 100%,from(#d186bf), to(#58057f));;
     color:black;
     text-align: center;
     font-size:medium;
@@ -90,8 +90,22 @@ body {
   grid-column:1/span 2;
   background-color: #9132a8;
   }
-  
-  
+  .section-3 p{
+
+    display: inline-block;
+    float: left;
+    width:200px;
+    height: 300px;
+    gap: 10px;
+  }
+  .section-4 p{
+    display: inline-block;
+    float: left;
+    width:200px;
+    height: 300px;
+    gap: 10px;
+  }
+ 
   .footers{
     background:#9132a8;
     color:black;
